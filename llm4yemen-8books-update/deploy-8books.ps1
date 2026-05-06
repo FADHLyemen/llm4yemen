@@ -20,7 +20,8 @@ $newFiles = @(
   "claude-code-from-zero-to-deployed.docx",
   "claude-code-from-zero-to-deployed.epub",
   "AI-Freelancing-Lecture-Bilingual.pptx",
-  "Week2-NotebookLM-Complete-Guide.pptx"
+  "Week2-NotebookLM-Complete-Guide.pptx",
+  "Week4-TrackB-Claude-Code-From-Zero-to-Deployed.pptx"
 )
 
 foreach ($f in $newFiles) {
