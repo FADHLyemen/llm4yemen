@@ -2,7 +2,7 @@
 
 This repository hosts the public website for **LLM4Yemen**, a 6-week intensive AI skills program for Yemeni undergraduates.
 
-🌐 **Live site:** https://YOUR-USERNAME.github.io/llm4yemen/
+🌐 **Live site:** https://fadhlyemen.github.io/llm4yemen/
 
 📧 **Contact:** llm4yemen@gmail.com
 
